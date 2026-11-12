@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask(_name_) 
+app = Flask(__name__) 
 #creates flask applciation; idk what flask is 
 
 def add(a, b):
