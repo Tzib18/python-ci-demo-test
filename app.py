@@ -14,5 +14,5 @@ def home():
     
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000) 
+    app.run(host="0.0.0.0", port=5000)
     #so when calling the fucntion in main were runnning the app on port 50000
